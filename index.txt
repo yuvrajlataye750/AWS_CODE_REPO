@@ -1,1 +1,27 @@
 this is general data for testing
+
+
+basic git command 
+
+
+
+git init
+
+git config --global user.name "username"
+git config --global user.email "username@example.com"
+
+git clone url link 
+
+
+echo "add readme file in repository" > README.md
+
+git status 
+
+git add . or
+git add filename
+
+git commit -m "write message here"
+
+git branch -M main
+
+git push -u origin maiin
